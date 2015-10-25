@@ -1,9 +1,10 @@
-pkgname=python-yad
+pkgname=python3-yad
+pkgnam=python-yad
 pkgver=0.9.5
 pkgrel=1
 pkgdesc="Interface to yad for python. Inspired by the PyZenity Project"
 arch=('x86_64')
-url="https://gitlab.com/dvenkatsagar/$pkgname"
+url="https://gitlab.com/dvenkatsagar/$pkgnam"
 license=('GPL3+')
 depends=('python3' 'yad')
 makedepends=('git' 'python3-setuptools')
